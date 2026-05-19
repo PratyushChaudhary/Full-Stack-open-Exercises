@@ -30,8 +30,8 @@ const App = () => {
     setSelected(updatedSelected);
   };
   
-  return (
-    <div>
+  return (	
+		<div>
       <h1>Anecdote of the day</h1>
       {anecdotes[selected]}
       <p>has {votes[selected]} votes</p>

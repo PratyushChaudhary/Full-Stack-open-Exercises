@@ -1,12 +1,28 @@
-NB
+# macOS clutter
+.DS_Store
+**/.DS_Store
 
-part0/0_5/main.js
+# Root-level clutter
+/NB/
+/Doubts/
+/misc_notes.md
+/structure.txt
 
-part1/test1
-part1/index.js
-part1/notes.md
-part1/Web_programmers_oath.png
+# Test files
+/part0_Fundamentals_of_Web_apps/0_5/main.js
+/part1_Introduction_to_React/index.js
+/part1_Introduction_to_React/test1/
+/part2_Communicating_with_Server/part2_1/
 
-structure.txt
+# Unfinished or non-submission parts
+/part3_Programming_a_server_with_NodeJS_and_Express/
+/part5_Testing_React_Apps/
+/part8_GraphQL/
 
+# Notes files anywhere in the repo
+**/notes.md
 
+# Images in notes
+/part1_Introduction_to_React/Web_programmers_oath.png
+/part2_Communicating_with_Server/image.png
+/part2_Communicating_with_Server/image-*.png
