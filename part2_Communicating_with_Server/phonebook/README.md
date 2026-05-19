@@ -1,6 +1,6 @@
 # Notes App
 
-A simple React + Vite app for managing notes, backed by a local JSON server.
+A simple React + Vite app for managing phone numbers, backed by a local JSON server.
 
 ## Setup
 

@@ -1,3 +1,5 @@
+A simple app to get info on countries.   
+
 ```bash
 npm run dev
 ```
