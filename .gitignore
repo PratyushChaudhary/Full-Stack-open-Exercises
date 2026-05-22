@@ -8,6 +8,13 @@
 /misc_notes.md
 /structure.txt
 
+# Node / Frontend Build Artifacts
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+*.local
+
 # Test files
 /part0_Fundamentals_of_Web_apps/0_5/main.js
 /part1_Introduction_to_React/index.js
@@ -28,5 +35,8 @@
 /part2_Communicating_with_Server/image.png
 /part2_Communicating_with_Server/image-*.png
 
-# Environment variables
-/part2_Communicating_with_Server/countries/.env
+# Environment variables & secrets
+.env
+**/.env
+.env.local
+.env.*.local
