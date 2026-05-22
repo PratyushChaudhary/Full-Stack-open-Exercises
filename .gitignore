@@ -23,7 +23,6 @@ dist/
 /part2_Communicating_with_Server/countries/eg.json
 
 # Unfinished or non-submission parts
-/part3_Programming_a_server_with_NodeJS_and_Express/
 /part5_Testing_React_Apps/
 /part8_GraphQL/
 
