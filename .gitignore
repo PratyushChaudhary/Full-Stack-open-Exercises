@@ -11,8 +11,8 @@
 # Node / Frontend Build Artifacts
 node_modules/
 **/node_modules/
-dist/
-**/dist/
+# dist/
+# **/dist/
 *.local
 
 # Test files
